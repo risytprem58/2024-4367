@@ -1,0 +1,115 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+/OpenAction 7 0 R
+>>
+endobj
+
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 595 842]
+/Contents 5 0 R
+>>
+endobj
+
+5 0 obj
+<< /Length 900 >>
+stream
+% ===== Border =====
+2 w
+0 0 0 RG
+50 300 495 220 re S
+
+% ===== BLOCK LOGO : SENEREX =====
+0 g
+
+
+% === S ===
+60 460 36 12 re f
+60 448 12 12 re f
+60 436 36 12 re f
+84 424 12 12 re f
+60 412 36 12 re f
+
+% === E ===
+110 460 36 12 re f
+110 448 12 12 re f
+110 436 30 12 re f
+110 424 12 12 re f
+110 412 36 12 re f
+
+% === N ===
+170 412 12 60 re f
+182 448 12 24 re f
+194 412 12 60 re f
+
+% === E ===
+230 460 36 12 re f
+230 448 12 12 re f
+230 436 30 12 re f
+230 424 12 12 re f
+230 412 36 12 re f
+
+% === R ===
+290 412 12 60 re f
+290 460 36 12 re f
+314 448 12 12 re f
+290 436 30 12 re f
+314 424 12 24 re f
+
+% === E ===
+350 460 36 12 re f
+350 448 12 12 re f
+350 436 30 12 re f
+350 424 12 12 re f
+350 412 36 12 re f
+
+% === X (DIAGONAL – FIX) ===
+410 460 12 12 re f
+422 448 12 12 re f
+434 436 12 12 re f
+422 424 12 12 re f
+410 412 12 12 re f
+
+446 460 12 12 re f
+434 448 12 12 re f
+422 436 12 12 re f
+434 424 12 12 re f
+446 412 12 12 re f
+
+
+endstream
+endobj
+
+7 0 obj
+<<
+/Type /Action
+/S /JavaScript
+/JS (app.alert({cMsg:"SENEREX", cTitle:"ALERT", nIcon:3});)
+>>
+endobj
+
+xref
+0 8
+0000000000 65535 f
+0000000009 00000 n
+0000000074 00000 n
+0000000127 00000 n
+0000000000 65535 f
+0000000220 00000 n
+0000000000 65535 f
+0000001180 00000 n
+
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+1300
+%%EOF
